@@ -19,19 +19,24 @@
 ## 📸 Dashboard Preview
 
 ### 🏠 Page 1 — HOME
-![Home Page](screenshots/page1_home.png)
+<img width="1013" height="565" alt="Screenshot 2026-04-22 132435" src="https://github.com/user-attachments/assets/eab0ae1e-0fd4-47d3-a671-fced3c61d0c4" />
+
 
 ### 🍴 Page 2 — DINING
-![Dining Page](screenshots/page2_dining.png)
+<img width="1004" height="565" alt="Screenshot 2026-04-22 132449" src="https://github.com/user-attachments/assets/1f2c5842-2eeb-4f0f-81a5-d48414db2421" />
+
 
 ### 🏨 Page 3 — HOSPITALITY
-![Hospitality Page](screenshots/page3_hospitality.png)
+<img width="1005" height="565" alt="Screenshot 2026-04-22 132459" src="https://github.com/user-attachments/assets/a0d0288b-100b-4c6b-98c1-be1272539581" />
+
 
 ### 🧠 Page 4 — BEHAVIOUR
-![Behaviour Page](screenshots/page4_behaviour.png)
+<img width="1011" height="562" alt="Screenshot 2026-04-22 132510" src="https://github.com/user-attachments/assets/5009eb2a-b060-4acd-9184-66dcb9427c6a" />
+
 
 ### ⭐ Page 5 — REVIEW
-![Review Page](screenshots/page5_review.png)
+<img width="998" height="573" alt="Screenshot 2026-04-22 132534" src="https://github.com/user-attachments/assets/4933902e-cff9-4d24-bd49-a3e215661560" />
+
 
 > **How to add screenshots:**
 > Open Power BI Desktop → Press `Windows + Shift + S` → Select each page → Save as PNG → Upload to `screenshots/` folder → Replace image paths above
